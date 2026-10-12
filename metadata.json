@@ -1,0 +1,6 @@
+{
+  "name": "ECHOROOM — Digital Audio Workstation",
+  "description": "Browser-based digital audio workstation with multitrack timeline, drum machine, synth studio, mic recording, effects mixer, and offline WAV export.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
